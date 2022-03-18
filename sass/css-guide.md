@@ -304,6 +304,7 @@ Box sizing behaviour is explained in these images.
 
 - Fonts
     - 📃 [Working with Typography | Shay Howe](https://learn.shayhowe.com/html-css/working-with-typography/)
+    - 📃 [Importing Google Fonts | w3 docs](https://www.w3docs.com/snippets/css/how-to-import-google-fonts-in-css-file.html)
 - Colors
     - 📃 [CSS Color Module | CSS Working Group](https://drafts.csswg.org/css-color-3/)
     - 📃 [A Nerd’s Guide to Color on the Web | CSS Tricks](https://css-tricks.com/nerds-guide-color-web/)
